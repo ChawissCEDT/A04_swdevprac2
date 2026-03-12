@@ -13,7 +13,7 @@ export default function TopMenu() {
         sizes="100vh"
         className="h-auto w-auto rounded-lg"
       />
-      <TopMenuItem title="Menu Item Booking" pageRef="/booking" />
+      <TopMenuItem title="Booking" pageRef="/booking" />
     </div>
   );
 }
