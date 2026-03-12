@@ -6,7 +6,7 @@ export default function TopMenu() {
   return (
     <div className={styles.menucontainer}>
       <Image
-        src={"/img/venuelogo.png"}
+        src={"/img/venuelogo.jpg"}
         alt="logo"
         width={0}
         height={0}
